@@ -1,0 +1,142 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+header{
+  width:100%;
+  height: 50px;
+  background-color: rgb(200, 58, 109);
+
+}
+header h1{
+  text-align: center;
+}
+
+.grey{
+overflow: auto;
+  width:100%;
+  height: 640px;
+  background-color: rgb(89, 111, 204);
+}
+.gold{
+  overflow: auto;
+  width:100%;
+  height: 640px;
+  background-color: rgb(10, 228, 163);
+}
+#firstBox{
+  width:100%;
+   display: block;
+
+}
+#navpic{
+  width:100%;
+  height: 360px;
+  background-color: green;
+  overflow: hidden;
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+#navmainn{
+  overflow: auto;
+  background-color: rgba(114, 60, 203, 0.68);
+
+}
+
+
+.firstBSecand{
+  background-color: orange;
+}
+.secandBSecand{
+  background-color: yellow;
+
+}
+.thirdBSecand{
+  background-color: purple;
+
+}
+
+.BoxSe{
+
+  width:100%;
+  height: 400px;
+}
+
+#secandBox{
+width: 100%;
+}
+
+#thirdBox{
+  width:100%;
+
+}
+
+#form{
+  overflow: auto;
+height:350px;
+  width:100%;
+  background-color: rgb(25, 107, 162);
+
+}
+#map{
+  background-color: rgb(118, 131, 81);
+  height:350px;
+  width: 100%;
+
+}
+
+#firstBox img{
+  width:80%;
+  height:350px;
+  margin-left: 10%;
+  margin-right: 10%;
+
+}
+  #firstBox h1{
+  text-align: center;
+  margin-top: 19px;
+  margin-bottom: 9px;
+  }
+ .box{
+  }
+#firstBox p{
+  font-size:18px;
+  color:black;
+  margin-top:20px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#textarea{
+  width: 100%;
+}
+fieldset{
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+textarea{
+  margin-left:10%; width:80%; height:100px;
+  margin-top: 20px; margin-bottom: 20px;
+}
+#thirdBox h2{
+  color:white;
+}
+
+#input{
+  margin-bottom: 15px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+input{
+width:100%;
+margin-bottom: 4px;
+
+}
+
+fieldset{
+  margin-top:42px;
+}

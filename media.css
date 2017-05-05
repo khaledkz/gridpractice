@@ -1,0 +1,79 @@
+
+
+@media screen and (min-width:660px){
+
+  header{
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #navmainn{
+    width:90%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  h1{
+    color:white;
+  }
+
+#firstBox{
+
+  display: flex;
+}
+
+.gold{
+        width: 50%;
+}
+  .grey{
+
+      width:50%;
+  }
+
+
+#thirdBox{
+  display: flex;
+}
+
+
+
+#form{
+   width:50%;
+
+}
+#map{
+   width: 50%;
+}
+
+}
+
+@media screen and (min-width:700px){
+  #secandBox{
+display: flex;
+  }
+.BoxSe{
+
+  width: 33.33%;
+}
+
+}
+
+
+@media screen and (min-width:860px){
+  #firstBox img{
+    width:60%;
+    height:350px;
+    margin-left: 20%;
+    margin-right: 20%;
+
+  }
+.grey{height: 588px;}
+  .gold{height: 588px;}
+}
+@media screen and (min-width:1050px){
+
+#navpic{
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+}
